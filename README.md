@@ -51,8 +51,9 @@ Projeção de crescimento médio de 5% ao ano no PIB chinês, com simulação at
 
 **Seu Nome**  
 Estudante de análise de dados | Apaixonado por geopolítica e história  
-[🔗 Seu LinkedIn] | [📫 Email para contato]
+[🔗 www.linkedin.com/in/gustavo-silvaa
 
+] | [📫 SILVAGUSTTHAVVO@GMAIL.COM
 ---
 
 ### ⭐ Objetivo
