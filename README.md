@@ -44,6 +44,7 @@ Projeção de crescimento médio de 5% ao ano no PIB chinês, com simulação at
 1. Faça o download do arquivo `.pbix` neste repositório  
 2. Abra com o Power BI Desktop  
 3. Explore as abas, filtros e visuais interativos
+4. LINK do Projeto https://app.powerbi.com/groups/me/reports/a8b10467-f1c7-48f4-8162-57b42f3de348/3e557010f9b51599f778?experience=power-bi
 
 ---
 
